@@ -1,2 +1,4 @@
 # glosario-
 glosario 
+RDIM
+RDAM
